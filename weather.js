@@ -1,3 +1,4 @@
+
 function getWeatherTemplate(callback) {
   var a = new XMLHttpRequest(); // ajax object
 
